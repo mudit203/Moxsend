@@ -249,10 +249,4 @@ npm run lint     # Run ESLint
 
 ---
 
-## License
 
-MIT
-
----
-
-Built with ☕ and Gemini AI.
